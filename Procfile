@@ -1,0 +1,1 @@
+web: gunicorn bot_name.wsgi
